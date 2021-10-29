@@ -17,6 +17,7 @@ date: <ex: mm/dd/yyyy>
 # Make sure your file runs and generates the correct results.
 
 def main():
+    ''' section 1 '''
     # example comment: define variable str1 with string "Hello"
     str1 = "Hello"
     # example comment: print out the 2nd letter of str1
@@ -30,22 +31,27 @@ def main():
     str2 = "World"
     print(str1+str2)
 
+    ''' section 2 '''
     # write code below to iterate over str1 and print each character
     # separated by a space in a single line
     # Your code goes here
 
+    ''' section 3 '''
     # write code below. Create 2 strings. Print each. Print concatenation 
     # of them.
     # Your code goes here
 
+    ''' section 4 '''
     # write code that demonstrates parsing of an input phrase into 
     # individual words.
     # Your code goes here
 
+    ''' section 5 '''
     # write code that gets pi from the math library and outputs as "3.14"
     # using string formatting.
     # Your code goes here
 
+    ''' section 6 '''
     # The following is only asking for comments to explain the code.
     # in the code below, what does line[:-1] evaluate to?
     # assume infile has been opened for reading a text file
